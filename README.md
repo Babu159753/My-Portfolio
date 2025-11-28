@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+# Xalimov Mustafo - Portfolio
 
-## Project info
+A premium, cyber-themed personal portfolio website showcasing cybersecurity and full-stack development work.
 
-**URL**: https://lovable.dev/projects/aa07ac89-b5ed-4266-acfb-43006b5c7e1c
+## 🚀 Live Demo
 
-## How can I edit this code?
+Visit the live portfolio: [Portfolio Link](https://lovable.dev/projects/aa07ac89-b5ed-4266-acfb-43006b5c7e1c)
 
-There are several ways of editing your application.
+## 👨‍💻 About
 
-**Use Lovable**
+This is the personal portfolio of **Xalimov Mustafo**, a Cybersecurity and Full-Stack Developer studying at Samarkand International University of Technology (SIUT). The portfolio demonstrates:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/aa07ac89-b5ed-4266-acfb-43006b5c7e1c) and start prompting.
+- 🛡️ Cybersecurity expertise
+- 💻 Full-stack development skills
+- 🎨 Modern UI/UX design
+- 🔒 Security-first mindset
 
-Changes made via Lovable will be committed automatically to this repo.
+## ✨ Features
 
-**Use your preferred IDE**
+- **Responsive Design**: Fully responsive across all devices
+- **Modern Animations**: Smooth Framer Motion animations
+- **Dark Cyber Theme**: High-end, professional aesthetic
+- **Interactive Projects**: Detailed project showcases with modals
+- **Contact Form**: Easy way to get in touch
+- **SEO Optimized**: Proper meta tags and semantic HTML
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Framework**: React 18 + Vite
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **UI Components**: shadcn/ui
+- **Icons**: Lucide React
+- **Language**: TypeScript
 
-Follow these steps:
+## 📦 Installation
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🌟 Sections
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+1. **Hero** - Eye-catching introduction with animated background
+2. **About** - Professional background and education
+3. **Skills** - Comprehensive technical skills showcase
+4. **Projects** - Featured projects with detailed descriptions
+5. **Certificates** - Academic and professional achievements
+6. **Contact** - Multiple ways to get in touch
 
-**Use GitHub Codespaces**
+## 📧 Contact
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Email**: mustafoxalimov12@gmail.com
+- **Phone**: +998 91 544 94 69
+- **GitHub**: [@Joffreyg9173](https://github.com/Joffreyg9173)
 
-## What technologies are used for this project?
+## 📄 License
 
-This project is built with:
+© 2024 Xalimov Mustafo. All rights reserved.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/aa07ac89-b5ed-4266-acfb-43006b5c7e1c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Built with precision and passion using [Lovable](https://lovable.dev)
