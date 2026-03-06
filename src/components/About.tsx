@@ -44,7 +44,7 @@ export const About = () => {
                       <p className="text-sm text-muted-foreground">
                         School of Computing — Cybersecurity
                       </p>
-                      <p className="text-sm text-primary">2nd Year, 3rd Semester</p>
+                      <p className="text-sm text-primary">2nd Year, 4rd Semester</p>
                     </div>
                   </div>
 
